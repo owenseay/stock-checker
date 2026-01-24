@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-01-23T23:30:19.734Z",
+  "lastUpdated": "2026-01-24T02:06:23.891Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
       "price": "",
-      "stockText": "14 NEW IN STOCK",
+      "stockText": "13 NEW IN STOCK",
       "available": true,
-      "count": 14
+      "count": 13
     },
     {
       "storeName": "CA - Tustin",
@@ -86,17 +86,17 @@
       "storeName": "MD - Parkville",
       "storeId": "125",
       "price": "",
-      "stockText": "21 NEW IN STOCK",
+      "stockText": "19 NEW IN STOCK",
       "available": true,
-      "count": 21
+      "count": 19
     },
     {
       "storeName": "MI - Madison Heights",
       "storeId": "055",
       "price": "",
-      "stockText": "4 NEW IN STOCK",
+      "stockText": "2 NEW IN STOCK",
       "available": true,
-      "count": 4
+      "count": 2
     },
     {
       "storeName": "MN - St. Louis Park",
@@ -134,9 +134,9 @@
       "storeName": "NY - Brooklyn",
       "storeId": "115",
       "price": "",
-      "stockText": "12 NEW IN STOCK",
+      "stockText": "8 NEW IN STOCK",
       "available": true,
-      "count": 12
+      "count": 8
     },
     {
       "storeName": "NY - Flushing",
@@ -174,9 +174,9 @@
       "storeName": "OH - Sharonville",
       "storeId": "071",
       "price": "",
-      "stockText": "7 NEW IN STOCK",
+      "stockText": "5 NEW IN STOCK",
       "available": true,
-      "count": 7
+      "count": 5
     },
     {
       "storeName": "PA - St. Davids",
@@ -214,9 +214,9 @@
       "storeName": "IN - Indianapolis",
       "storeId": "165",
       "price": "",
-      "stockText": "6 NEW IN STOCK",
+      "stockText": "3 NEW IN STOCK",
       "available": true,
-      "count": 6
+      "count": 3
     },
     {
       "storeName": "NC - Charlotte",
