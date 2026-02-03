@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T13:16:06.156Z",
+  "lastUpdated": "2026-02-03T14:53:54.553Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -62,17 +62,17 @@
       "storeName": "KS - Overland Park",
       "storeId": "191",
       "price": "",
-      "stockText": "23 NEW IN STOCK",
+      "stockText": "20 NEW IN STOCK",
       "available": true,
-      "count": 23
+      "count": 20
     },
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
       "price": "",
-      "stockText": "10 NEW IN STOCK",
+      "stockText": "7 NEW IN STOCK",
       "available": true,
-      "count": 10
+      "count": 7
     },
     {
       "storeName": "MD - Rockville",
@@ -102,9 +102,9 @@
       "storeName": "MN - St. Louis Park",
       "storeId": "045",
       "price": "",
-      "stockText": "19 NEW IN STOCK",
+      "stockText": "14 NEW IN STOCK",
       "available": true,
-      "count": 19
+      "count": 14
     },
     {
       "storeName": "MO - Brentwood",
@@ -126,9 +126,9 @@
       "storeName": "NY - Westbury",
       "storeId": "171",
       "price": "",
-      "stockText": "3 NEW IN STOCK",
-      "available": true,
-      "count": 3
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "NY - Brooklyn",
@@ -166,9 +166,9 @@
       "storeName": "OH - Mayfield Heights",
       "storeId": "051",
       "price": "",
-      "stockText": "2 NEW IN STOCK",
-      "available": true,
-      "count": 2
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "OH - Sharonville",
@@ -190,17 +190,17 @@
       "storeName": "TX - Houston",
       "storeId": "155",
       "price": "",
-      "stockText": "25+ NEW IN STOCK",
+      "stockText": "16 NEW IN STOCK",
       "available": true,
-      "count": 25
+      "count": 16
     },
     {
       "storeName": "TX - Dallas",
       "storeId": "131",
       "price": "",
-      "stockText": "2 NEW IN STOCK",
-      "available": true,
-      "count": 2
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "VA - Fairfax",
