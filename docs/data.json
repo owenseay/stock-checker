@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-02-07T15:34:07.140Z",
+  "lastUpdated": "2026-02-07T16:41:17.169Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
       "price": "",
-      "stockText": "25+ NEW IN STOCK",
+      "stockText": "24 NEW IN STOCK",
       "available": true,
-      "count": 25
+      "count": 24
     },
     {
       "storeName": "CA - Tustin",
@@ -38,9 +38,9 @@
       "storeName": "GA - Marietta",
       "storeId": "041",
       "price": "",
-      "stockText": "21 NEW IN STOCK",
+      "stockText": "15 NEW IN STOCK",
       "available": true,
-      "count": 21
+      "count": 15
     },
     {
       "storeName": "IL - Chicago",
@@ -54,9 +54,9 @@
       "storeName": "IL - Westmont",
       "storeId": "025",
       "price": "",
-      "stockText": "25 NEW IN STOCK",
+      "stockText": "20 NEW IN STOCK",
       "available": true,
-      "count": 25
+      "count": 20
     },
     {
       "storeName": "KS - Overland Park",
@@ -78,7 +78,7 @@
       "storeName": "MD - Rockville",
       "storeId": "085",
       "price": "",
-      "stockText": "25+ NEW IN STOCK",
+      "stockText": "25 NEW IN STOCK",
       "available": true,
       "count": 25
     },
@@ -142,9 +142,9 @@
       "storeName": "NY - Flushing",
       "storeId": "145",
       "price": "",
-      "stockText": "20 NEW IN STOCK",
+      "stockText": "18 NEW IN STOCK",
       "available": true,
-      "count": 20
+      "count": 18
     },
     {
       "storeName": "NY - Yonkers",
@@ -166,9 +166,9 @@
       "storeName": "OH - Mayfield Heights",
       "storeId": "051",
       "price": "",
-      "stockText": "19 NEW IN STOCK",
+      "stockText": "17 NEW IN STOCK",
       "available": true,
-      "count": 19
+      "count": 17
     },
     {
       "storeName": "OH - Sharonville",
@@ -182,9 +182,9 @@
       "storeName": "PA - St. Davids",
       "storeId": "061",
       "price": "",
-      "stockText": "25 NEW IN STOCK",
+      "stockText": "22 NEW IN STOCK",
       "available": true,
-      "count": 25
+      "count": 22
     },
     {
       "storeName": "TX - Houston",
@@ -198,9 +198,9 @@
       "storeName": "TX - Dallas",
       "storeId": "131",
       "price": "",
-      "stockText": "25 NEW IN STOCK",
+      "stockText": "14 NEW IN STOCK",
       "available": true,
-      "count": 25
+      "count": 14
     },
     {
       "storeName": "VA - Fairfax",
@@ -214,9 +214,9 @@
       "storeName": "IN - Indianapolis",
       "storeId": "165",
       "price": "",
-      "stockText": "25 NEW IN STOCK",
+      "stockText": "24 NEW IN STOCK",
       "available": true,
-      "count": 25
+      "count": 24
     },
     {
       "storeName": "NC - Charlotte",
