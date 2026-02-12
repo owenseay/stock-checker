@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-02-11T23:41:43.675Z",
+  "lastUpdated": "2026-02-12T02:47:32.642Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
-      "price": "",
-      "stockText": "17 NEW IN STOCK",
-      "available": true,
-      "count": 17
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "CA - Tustin",
       "storeId": "101",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -21,7 +21,7 @@
     {
       "storeName": "CO - Denver",
       "storeId": "181",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -29,18 +29,18 @@
     {
       "storeName": "GA - Duluth",
       "storeId": "065",
-      "price": "",
-      "stockText": "3 NEW IN STOCK",
-      "available": true,
-      "count": 3
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "GA - Marietta",
       "storeId": "041",
       "price": "",
-      "stockText": "6 NEW IN STOCK",
-      "available": true,
-      "count": 6
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "IL - Chicago",
@@ -110,9 +110,9 @@
       "storeName": "MO - Brentwood",
       "storeId": "095",
       "price": "",
-      "stockText": "12 NEW IN STOCK",
+      "stockText": "9 NEW IN STOCK",
       "available": true,
-      "count": 12
+      "count": 9
     },
     {
       "storeName": "NJ - North Jersey",
@@ -126,9 +126,9 @@
       "storeName": "NY - Westbury",
       "storeId": "171",
       "price": "",
-      "stockText": "5 NEW IN STOCK",
+      "stockText": "4 NEW IN STOCK",
       "available": true,
-      "count": 5
+      "count": 4
     },
     {
       "storeName": "NY - Brooklyn",
@@ -174,17 +174,17 @@
       "storeName": "OH - Sharonville",
       "storeId": "071",
       "price": "",
-      "stockText": "9 NEW IN STOCK",
+      "stockText": "6 NEW IN STOCK",
       "available": true,
-      "count": 9
+      "count": 6
     },
     {
       "storeName": "PA - St. Davids",
       "storeId": "061",
       "price": "",
-      "stockText": "4 NEW IN STOCK",
-      "available": true,
-      "count": 4
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "TX - Houston",
@@ -214,9 +214,9 @@
       "storeName": "IN - Indianapolis",
       "storeId": "165",
       "price": "",
-      "stockText": "17 NEW IN STOCK",
+      "stockText": "16 NEW IN STOCK",
       "available": true,
-      "count": 17
+      "count": 16
     },
     {
       "storeName": "NC - Charlotte",
