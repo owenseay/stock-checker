@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T17:13:43.803Z",
+  "lastUpdated": "2026-02-12T19:13:51.008Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -142,9 +142,9 @@
       "storeName": "NY - Flushing",
       "storeId": "145",
       "price": "",
-      "stockText": "8 NEW IN STOCK",
-      "available": true,
-      "count": 8
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "NY - Yonkers",
@@ -158,17 +158,17 @@
       "storeName": "OH - Columbus",
       "storeId": "141",
       "price": "",
-      "stockText": "3 NEW IN STOCK",
+      "stockText": "1 NEW IN STOCK",
       "available": true,
-      "count": 3
+      "count": 1
     },
     {
       "storeName": "OH - Mayfield Heights",
       "storeId": "051",
       "price": "",
-      "stockText": "11 NEW IN STOCK",
+      "stockText": "8 NEW IN STOCK",
       "available": true,
-      "count": 11
+      "count": 8
     },
     {
       "storeName": "OH - Sharonville",
@@ -214,17 +214,17 @@
       "storeName": "IN - Indianapolis",
       "storeId": "165",
       "price": "",
-      "stockText": "18 NEW IN STOCK",
+      "stockText": "16 NEW IN STOCK",
       "available": true,
-      "count": 18
+      "count": 16
     },
     {
       "storeName": "NC - Charlotte",
       "storeId": "175",
       "price": "",
-      "stockText": "10 NEW IN STOCK",
-      "available": true,
-      "count": 10
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "FL - Miami",
