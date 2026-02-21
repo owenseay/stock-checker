@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-02-21T19:32:12.690Z",
+  "lastUpdated": "2026-02-21T20:35:00.051Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
-      "price": "N/A",
+      "price": "",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -13,18 +13,18 @@
     {
       "storeName": "CA - Tustin",
       "storeId": "101",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "price": "",
+      "stockText": "8 NEW IN STOCK",
+      "available": true,
+      "count": 8
     },
     {
       "storeName": "CO - Denver",
       "storeId": "181",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "price": "",
+      "stockText": "18 NEW IN STOCK",
+      "available": true,
+      "count": 18
     },
     {
       "storeName": "GA - Duluth",
@@ -46,9 +46,9 @@
       "storeName": "IL - Chicago",
       "storeId": "151",
       "price": "",
-      "stockText": "12 NEW IN STOCK",
+      "stockText": "11 NEW IN STOCK",
       "available": true,
-      "count": 12
+      "count": 11
     },
     {
       "storeName": "IL - Westmont",
@@ -62,17 +62,17 @@
       "storeName": "KS - Overland Park",
       "storeId": "191",
       "price": "",
-      "stockText": "24 NEW IN STOCK",
+      "stockText": "22 NEW IN STOCK",
       "available": true,
-      "count": 24
+      "count": 22
     },
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
       "price": "",
-      "stockText": "10 NEW IN STOCK",
+      "stockText": "8 NEW IN STOCK",
       "available": true,
-      "count": 10
+      "count": 8
     },
     {
       "storeName": "MD - Rockville",
