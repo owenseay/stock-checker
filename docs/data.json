@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T04:44:04.789Z",
+  "lastUpdated": "2026-02-21T05:47:34.130Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -13,250 +13,188 @@
     {
       "storeName": "CA - Tustin",
       "storeId": "101",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: net::ERR_NETWORK_CHANGED at https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=101\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=101\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "CO - Denver",
       "storeId": "181",
-      "price": "",
-      "stockText": "20 NEW IN STOCK",
-      "available": true,
-      "count": 20
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=181\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=181\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "GA - Duluth",
       "storeId": "065",
-      "price": "",
-      "stockText": "7 NEW IN STOCK",
-      "available": true,
-      "count": 7
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=065\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=181\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=065\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "GA - Marietta",
       "storeId": "041",
-      "price": "",
-      "stockText": "23 NEW IN STOCK",
-      "available": true,
-      "count": 23
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=041\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=065\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=041\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "IL - Chicago",
       "storeId": "151",
-      "price": "",
-      "stockText": "13 NEW IN STOCK",
-      "available": true,
-      "count": 13
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=151\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=041\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=151\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "IL - Westmont",
       "storeId": "025",
-      "price": "",
-      "stockText": "11 NEW IN STOCK",
-      "available": true,
-      "count": 11
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=025\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=151\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=025\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "KS - Overland Park",
       "storeId": "191",
-      "price": "",
-      "stockText": "25 NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=191\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=025\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=191\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
-      "price": "",
-      "stockText": "15 NEW IN STOCK",
-      "available": true,
-      "count": 15
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=121\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=191\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=121\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "MD - Rockville",
       "storeId": "085",
-      "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=085\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=121\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=085\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "MD - Parkville",
       "storeId": "125",
-      "price": "",
-      "stockText": "17 NEW IN STOCK",
-      "available": true,
-      "count": 17
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=125\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=085\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=125\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "MI - Madison Heights",
       "storeId": "055",
-      "price": "",
-      "stockText": "12 NEW IN STOCK",
-      "available": true,
-      "count": 12
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=055\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=125\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=055\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "MN - St. Louis Park",
       "storeId": "045",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=045\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=055\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=045\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "MO - Brentwood",
       "storeId": "095",
-      "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=095\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=045\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=095\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "NJ - North Jersey",
       "storeId": "075",
-      "price": "",
-      "stockText": "12 NEW IN STOCK",
-      "available": true,
-      "count": 12
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=075\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=095\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=075\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "NY - Westbury",
       "storeId": "171",
-      "price": "",
-      "stockText": "18 NEW IN STOCK",
-      "available": true,
-      "count": 18
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=171\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=075\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=171\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "NY - Brooklyn",
       "storeId": "115",
-      "price": "",
-      "stockText": "6 NEW IN STOCK",
-      "available": true,
-      "count": 6
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=115\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=171\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=115\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "NY - Flushing",
       "storeId": "145",
-      "price": "",
-      "stockText": "18 NEW IN STOCK",
-      "available": true,
-      "count": 18
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=145\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=115\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=145\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "NY - Yonkers",
       "storeId": "105",
-      "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=105\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=145\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=105\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "OH - Columbus",
       "storeId": "141",
-      "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=141\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=105\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=141\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "OH - Mayfield Heights",
       "storeId": "051",
-      "price": "",
-      "stockText": "17 NEW IN STOCK",
-      "available": true,
-      "count": 17
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=051\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=141\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=051\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "OH - Sharonville",
       "storeId": "071",
-      "price": "",
-      "stockText": "17 NEW IN STOCK",
-      "available": true,
-      "count": 17
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=071\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=051\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=071\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "PA - St. Davids",
       "storeId": "061",
-      "price": "",
-      "stockText": "7 NEW IN STOCK",
-      "available": true,
-      "count": 7
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=061\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=071\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=061\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "TX - Houston",
       "storeId": "155",
-      "price": "",
-      "stockText": "4 NEW IN STOCK",
-      "available": true,
-      "count": 4
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=155\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=061\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=155\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "TX - Dallas",
       "storeId": "131",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=131\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=155\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=131\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "VA - Fairfax",
       "storeId": "081",
-      "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=081\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=131\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=081\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "IN - Indianapolis",
       "storeId": "165",
-      "price": "",
-      "stockText": "13 NEW IN STOCK",
-      "available": true,
-      "count": 13
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=165\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=081\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=165\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "NC - Charlotte",
       "storeId": "175",
-      "price": "",
-      "stockText": "10 NEW IN STOCK",
-      "available": true,
-      "count": 10
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=175\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=165\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=175\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "FL - Miami",
       "storeId": "185",
-      "price": "",
-      "stockText": "2 NEW IN STOCK",
-      "available": true,
-      "count": 2
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=185\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=175\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=185\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "CA - Santa Clara",
       "storeId": "195",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=195\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=185\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=195\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "TX - Austin",
       "storeId": "215",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=215\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=195\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=215\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "Web Store",
       "storeId": "029",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=029\" is interrupted by another navigation to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=215\"\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=029\", waiting until \"domcontentloaded\"\n",
+      "available": false
     }
   ]
 }
