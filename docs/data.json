@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T10:01:56.315Z",
+  "lastUpdated": "2026-02-26T11:01:36.539Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -45,42 +45,42 @@
     {
       "storeName": "IL - Chicago",
       "storeId": "151",
-      "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "IL - Westmont",
       "storeId": "025",
-      "price": "",
-      "stockText": "24 NEW IN STOCK",
-      "available": true,
-      "count": 24
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "KS - Overland Park",
       "storeId": "191",
-      "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
-      "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MD - Rockville",
       "storeId": "085",
-      "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MD - Parkville",
