@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T23:35:41.407Z",
+  "lastUpdated": "2026-03-03T02:42:26.635Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -30,9 +30,9 @@
       "storeName": "GA - Duluth",
       "storeId": "065",
       "price": "",
-      "stockText": "12 NEW IN STOCK",
+      "stockText": "11 NEW IN STOCK",
       "available": true,
-      "count": 12
+      "count": 11
     },
     {
       "storeName": "GA - Marietta",
@@ -54,9 +54,9 @@
       "storeName": "IL - Westmont",
       "storeId": "025",
       "price": "",
-      "stockText": "17 NEW IN STOCK",
+      "stockText": "16 NEW IN STOCK",
       "available": true,
-      "count": 17
+      "count": 16
     },
     {
       "storeName": "KS - Overland Park",
@@ -70,9 +70,9 @@
       "storeName": "MA - Cambridge",
       "storeId": "121",
       "price": "",
-      "stockText": "19 NEW IN STOCK",
+      "stockText": "18 NEW IN STOCK",
       "available": true,
-      "count": 19
+      "count": 18
     },
     {
       "storeName": "MD - Rockville",
@@ -110,17 +110,17 @@
       "storeName": "MO - Brentwood",
       "storeId": "095",
       "price": "",
-      "stockText": "23 NEW IN STOCK",
+      "stockText": "21 NEW IN STOCK",
       "available": true,
-      "count": 23
+      "count": 21
     },
     {
       "storeName": "NJ - North Jersey",
       "storeId": "075",
       "price": "",
-      "stockText": "9 NEW IN STOCK",
+      "stockText": "8 NEW IN STOCK",
       "available": true,
-      "count": 9
+      "count": 8
     },
     {
       "storeName": "NY - Westbury",
@@ -222,9 +222,9 @@
       "storeName": "NC - Charlotte",
       "storeId": "175",
       "price": "",
-      "stockText": "22 NEW IN STOCK",
+      "stockText": "21 NEW IN STOCK",
       "available": true,
-      "count": 22
+      "count": 21
     },
     {
       "storeName": "FL - Miami",
