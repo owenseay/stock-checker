@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T17:42:54.294Z",
+  "lastUpdated": "2026-03-06T18:58:02.693Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -30,9 +30,9 @@
       "storeName": "GA - Duluth",
       "storeId": "065",
       "price": "",
-      "stockText": "15 NEW IN STOCK",
+      "stockText": "14 NEW IN STOCK",
       "available": true,
-      "count": 15
+      "count": 14
     },
     {
       "storeName": "GA - Marietta",
@@ -70,9 +70,9 @@
       "storeName": "MA - Cambridge",
       "storeId": "121",
       "price": "",
-      "stockText": "10 NEW IN STOCK",
+      "stockText": "9 NEW IN STOCK",
       "available": true,
-      "count": 10
+      "count": 9
     },
     {
       "storeName": "MD - Rockville",
@@ -110,17 +110,17 @@
       "storeName": "MO - Brentwood",
       "storeId": "095",
       "price": "",
-      "stockText": "7 NEW IN STOCK",
+      "stockText": "6 NEW IN STOCK",
       "available": true,
-      "count": 7
+      "count": 6
     },
     {
       "storeName": "NJ - North Jersey",
       "storeId": "075",
       "price": "",
-      "stockText": "20 NEW IN STOCK",
+      "stockText": "19 NEW IN STOCK",
       "available": true,
-      "count": 20
+      "count": 19
     },
     {
       "storeName": "NY - Westbury",
@@ -190,17 +190,17 @@
       "storeName": "TX - Houston",
       "storeId": "155",
       "price": "",
-      "stockText": "1 NEW IN STOCK",
-      "available": true,
-      "count": 1
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "TX - Dallas",
       "storeId": "131",
       "price": "",
-      "stockText": "1 NEW IN STOCK",
-      "available": true,
-      "count": 1
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "VA - Fairfax",
@@ -238,9 +238,9 @@
       "storeName": "CA - Santa Clara",
       "storeId": "195",
       "price": "",
-      "stockText": "10 NEW IN STOCK",
+      "stockText": "9 NEW IN STOCK",
       "available": true,
-      "count": 10
+      "count": 9
     },
     {
       "storeName": "TX - Austin",
