@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T17:49:13.045Z",
+  "lastUpdated": "2026-09-02T20:52:38.049Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -133,7 +133,7 @@
     {
       "storeName": "NY - Brooklyn",
       "storeId": "115",
-      "price": "N/A",
+      "price": "",
       "stockText": "Unknown",
       "available": false,
       "count": 0
